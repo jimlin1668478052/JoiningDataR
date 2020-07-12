@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586454744012.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1617C4BD",
+    "lastKnownWriteTime" : 27303364805460078,
+    "last_content_update" : 1586454744012,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3AFEE3C8",
+        "caption" : "Tesla_Year",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Tesla_Year&cache_key=3AFEE3C8",
+        "displayedObservations" : "11",
+        "environment" : "",
+        "object" : "Tesla_Year",
+        "preview" : "0",
+        "totalObservations" : "11",
+        "variables" : "7"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

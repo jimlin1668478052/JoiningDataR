@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586458154997.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6E31ADE1",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1586458154997,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A3FF4784",
+        "caption" : "grades_houses2",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=grades_houses2&cache_key=A3FF4784",
+        "displayedObservations" : 24,
+        "environment" : "",
+        "object" : "grades_houses2",
+        "preview" : 0,
+        "totalObservations" : 24,
+        "variables" : 4
+    },
+    "relative_order" : 19,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

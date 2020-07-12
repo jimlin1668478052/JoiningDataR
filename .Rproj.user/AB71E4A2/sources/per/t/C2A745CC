@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586457284559.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C2A745CC",
+    "lastKnownWriteTime" : 7308604914264011873,
+    "last_content_update" : 1586457284559,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "53A0FF75",
+        "caption" : "calories",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=calories&cache_key=53A0FF75",
+        "displayedObservations" : 3,
+        "environment" : "",
+        "object" : "calories",
+        "preview" : 0,
+        "totalObservations" : 3,
+        "variables" : 3
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

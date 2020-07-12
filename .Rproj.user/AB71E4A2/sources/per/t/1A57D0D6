@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586455720303.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A57D0D6",
+    "lastKnownWriteTime" : 27303364805460078,
+    "last_content_update" : 1586455720303,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "54E183BD",
+        "caption" : "Tesla_Season",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Tesla_Season&cache_key=54E183BD",
+        "displayedObservations" : "4",
+        "environment" : "",
+        "object" : "Tesla_Season",
+        "preview" : "0",
+        "totalObservations" : "4",
+        "variables" : "7"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586457636434.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "58EA55B0",
+    "lastKnownWriteTime" : 3419473789575321445,
+    "last_content_update" : 1586457636434,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BFECB878",
+        "caption" : "Joined_data_semi",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Joined_data_semi&cache_key=BFECB878",
+        "displayedObservations" : 2,
+        "environment" : "",
+        "object" : "Joined_data_semi",
+        "preview" : 0,
+        "totalObservations" : 2,
+        "variables" : 3
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

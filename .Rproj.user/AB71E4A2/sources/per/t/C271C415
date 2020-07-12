@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586453570933.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C271C415",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1586453570933,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "E1640A46",
+        "caption" : "Tesla",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Tesla&cache_key=E1640A46",
+        "displayedObservations" : "2459",
+        "environment" : "",
+        "object" : "Tesla",
+        "preview" : "0",
+        "totalObservations" : "2459",
+        "variables" : "10"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
